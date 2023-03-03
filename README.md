@@ -1,5 +1,5 @@
 # Hola, soy Hernán Bautista
-### Soy de Argentina y mi objetivo , en principio, es convertirme en programador Fullstack y luego especializarme en backend. 
+### Soy de Argentina y mi objetivo , en principio, es convertirme en programador web Fullstack y luego especializarme en backend. 
 ***
 ### 🔷 Lenguajes/Tecnologias:
   - Python (basico)
