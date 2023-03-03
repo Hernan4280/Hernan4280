@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hola, soy Hernán Bautista
+### Soy de Argentina y mi objetivo , en principio, es convertirme en programador Fullstack y luego especializarme en backend. 
+***
+### 🔷 Lenguajes/Tecnologias:
+  - Python (basico)
+  - CSS (basico)
+  - HTML
+  - JavaScript (basico)
 
-<!--
-**Hernan4280/Hernan4280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔷 Comandos Markdown:
+| Comando | Descripcion |
+|----------|----------|
+| #    | Se utiliza de forma predeterminada para crear un titulo    |
+| -    | Se utiliza para crear listas no ordenadas   |
+| 1, 2, 3...    | Se utilizan para crear listas ordenadas   |
+|`    | El acento grave se utiliza para marcar un área de texto como código    |
+|<>   | Se utilizan para crear hipervínculos seleccionables  |
 
-Here are some ideas to get you started:
+### 🔷 Comandos alias:
+| Comando | Descripcion |
+|----------|----------|
+| `alias cl='clear'`    | Limpia la terminal   |
+| `alias rm='trash'`| Todo lo que remueve lo envia a la papelera    |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
