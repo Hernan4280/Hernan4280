@@ -8,18 +8,18 @@
   - JavaScript (basico)
 
 ### 🔷 Comandos Markdown:
-| Comando | Descripcion |
-|----------|----------|
-| #    | Se utiliza de forma predeterminada para crear un titulo    |
-| -    | Se utiliza para crear listas no ordenadas   |
-| 1, 2, 3...    | Se utilizan para crear listas ordenadas   |
-|`    | El acento grave se utiliza para marcar un área de texto como código    |
-|<>   | Se utilizan para crear hipervínculos seleccionables  |
+| Comandos      | Descripcion                                                |
+|---------------|------------------------------------------------------------|
+| #             | Se utiliza de forma predeterminada para crear un titulo    |
+| -             | Se utiliza para crear listas no ordenadas                  |
+| 1, 2, 3...    | Se utilizan para crear listas ordenadas                    |
+|>              | Genera una cita colocandolo al principo delbloque de texto |
+|<>             | Se utilizan para crear hipervínculos seleccionables        |
 
 ### 🔷 Comandos alias:
-| Comando | Descripcion |
-|----------|----------|
-| `alias cl='clear'`    | Limpia la terminal   |
-| `alias rm='trash'`| Todo lo que remueve lo envia a la papelera    |
+| Comandos             | Descripcion                                 |
+|----------------------|---------------------------------------------|
+| `alias cl='clear'`   | Limpia la terminal                          |
+| `alias rm='trash'`   | Todo lo que remueve lo envia a la papelera  |
 
 
