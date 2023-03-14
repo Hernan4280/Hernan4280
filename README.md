@@ -8,13 +8,13 @@
   - JavaScript (basico)
 
 ### 🔷 Comandos Markdown:
-| Comandos      | Descripcion                                                |
-|---------------|------------------------------------------------------------|
-| #             | Se utiliza de forma predeterminada para crear un titulo    |
-| -             | Se utiliza para crear listas no ordenadas                  |
-| 1, 2, 3...    | Se utilizan para crear listas ordenadas                    |
-|>              | Genera una cita colocandolo al principo delbloque de texto |
-|<>             | Se utilizan para crear hipervínculos seleccionables        |
+| Comandos      | Descripcion                                                 |
+|---------------|-------------------------------------------------------------|
+| #             | Se utiliza de forma predeterminada para crear un titulo     |
+| -             | Se utiliza para crear listas no ordenadas                   |
+| 1, 2, 3...    | Se utilizan para crear listas ordenadas                     |
+|>              | Genera una cita colocandolo al principo del bloque de texto |
+|<>             | Se utilizan para crear hipervínculos seleccionables         |
 
 ### 🔷 Comandos alias:
 | Comandos             | Descripcion                                 |
