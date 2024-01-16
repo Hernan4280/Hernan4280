@@ -3,7 +3,6 @@
 ### Soy de Argentina y mi objetivo , en principio, es convertirme en programador web Fullstack y luego especializarme en backend. 
 ***
 ### 🔷 Datos de contacto:
-- Email: hernanbautista.80@gmail.com
 - [Twitter](https://twitter.com/HernanGchu)
 
 ### 🔷 Lenguajes/Tecnologias:
