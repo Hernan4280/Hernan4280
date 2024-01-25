@@ -1,9 +1,10 @@
 [Mi perfil de GitHub](https://github.com/Hernan4280)
 # Hola, soy Hernán Bautista
-### Soy de Argentina y mi objetivo , en principio, es convertirme en programador web Fullstack y luego especializarme en backend. 
+### Soy de Argentina, estudio programación y mi objetivo es convertirme en programador backend. 
 ***
 ### 🔷 Datos de contacto:
 - [Twitter](https://twitter.com/HernanGchu)
+- [LinkedIn](https://www.linkedin.com/in/julio-bautista-dev/)
 
 ### 🔷 Lenguajes/Tecnologias:
   - Python (basico)
